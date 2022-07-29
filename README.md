@@ -24,6 +24,8 @@ Best Case: n
 
 Number 18 is at the middle of the array, so we should consider average case.
 
+# Part 2
+
 [7,3,5,8,2,9,4,15,6] By using sorting method mensioned in the video, the 4 steps will be:
 
 [2,3,5,8,7,9,4,15,6]
