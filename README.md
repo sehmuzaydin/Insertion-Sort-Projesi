@@ -1,5 +1,6 @@
-# Insertion-Sort-Projesi
-[22,27,16,2,18,6]
+# Insertion Sort Project
+
+[22,27,16,2,18,6] By using the sorting method mensioned in the video, the process will be:
 
 [2,27,16,22,18,6]
 
