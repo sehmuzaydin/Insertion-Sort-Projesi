@@ -18,7 +18,7 @@ Average Case: O(n^2)
 
 Worst Case: O(n^2)
 
-Best Case: n
+Best Case: O(n)
 
 # Consider 18
 
